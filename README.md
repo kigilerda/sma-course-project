@@ -1,4 +1,4 @@
-# social-media-analysis
+# project
 Social media analytics project for data collection, sentiment analysis, and visualization
 
 A Python project for the "Social Media Analysis" course.
